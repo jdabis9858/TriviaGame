@@ -1,0 +1,22 @@
+{
+    background-image: url('C:\Users\jdabi\OneDrive\Desktop\TriviaGame\stars.jpg');
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+
+    
+}
+
+#start {
+
+    color: blue;
+    text-align: center;
+
+}
+
+#question, #answer {
+    color: blue;
+    text-align: center;
+}
