@@ -9,14 +9,8 @@ h1 {
     
 }
 
-#start {
 
-    color: blue;
-    text-align: center;
-
-}
-
-#question, #answer {
+.btn {
     color: blue;
     text-align: center;
 }
